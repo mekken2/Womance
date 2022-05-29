@@ -11,4 +11,4 @@ Womance, currently catering to girls at VIT. lets you choose exactly the type of
 And you know the best part about it?! WE MATCH PEOPLE BASED ON THE FREE SLOTS on their timetable!
 
 ![CloudSEK](img/cloudSEK1.PNG)
-And for the Threat Protection, we are using CloudSEK.
+And for Threat Protection, we are using CloudSEK.
